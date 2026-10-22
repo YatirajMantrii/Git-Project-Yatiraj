@@ -6,3 +6,7 @@
 ## Projects 
 - <project name>: one line about it
 - <project name>: one line about it
+
+## Contact 
+- Email: yatirajmantrii@gmail.com
+
