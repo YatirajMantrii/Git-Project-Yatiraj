@@ -6,3 +6,7 @@
 ## Projects 
 - <project name>: one line about it
 - <project name>: one line about it
+
+## Social Links 
+- GitHub: https;//github.com/username
+- LinkedIn: <your LinkedIn link>
